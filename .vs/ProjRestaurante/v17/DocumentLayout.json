@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaik\\Documents\\Visual Studio 2022 Projetos\\ProjRestaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB95CC8-6C03-42BB-95C5-434AFA8E1935}|ProjRestaurante\\ProjRestaurante.csproj|c:\\users\\kaik\\documents\\visual studio 2022 projetos\\projrestaurante\\projrestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB95CC8-6C03-42BB-95C5-434AFA8E1935}|ProjRestaurante\\ProjRestaurante.csproj|solutionrelative:projrestaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB95CC8-6C03-42BB-95C5-434AFA8E1935}|ProjRestaurante\\ProjRestaurante.csproj|c:\\users\\kaik\\documents\\visual studio 2022 projetos\\projrestaurante\\projrestaurante\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB95CC8-6C03-42BB-95C5-434AFA8E1935}|ProjRestaurante\\ProjRestaurante.csproj|solutionrelative:projrestaurante\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB95CC8-6C03-42BB-95C5-434AFA8E1935}|ProjRestaurante\\ProjRestaurante.csproj|c:\\users\\kaik\\documents\\visual studio 2022 projetos\\projrestaurante\\projrestaurante\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB95CC8-6C03-42BB-95C5-434AFA8E1935}|ProjRestaurante\\ProjRestaurante.csproj|solutionrelative:projrestaurante\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDB95CC8-6C03-42BB-95C5-434AFA8E1935}|ProjRestaurante\\ProjRestaurante.csproj|c:\\users\\kaik\\documents\\visual studio 2022 projetos\\projrestaurante\\projrestaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDB95CC8-6C03-42BB-95C5-434AFA8E1935}|ProjRestaurante\\ProjRestaurante.csproj|solutionrelative:projrestaurante\\restaurante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Restaurante.cs",
+              "DocumentMoniker": "C:\\Users\\Kaik\\Documents\\Visual Studio 2022 Projetos\\ProjRestaurante\\ProjRestaurante\\Restaurante.cs",
+              "RelativeDocumentMoniker": "ProjRestaurante\\Restaurante.cs",
+              "ToolTip": "C:\\Users\\Kaik\\Documents\\Visual Studio 2022 Projetos\\ProjRestaurante\\ProjRestaurante\\Restaurante.cs",
+              "RelativeToolTip": "ProjRestaurante\\Restaurante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:05:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\Kaik\\Documents\\Visual Studio 2022 Projetos\\ProjRestaurante\\ProjRestaurante\\Pedido.cs",
+              "RelativeDocumentMoniker": "ProjRestaurante\\Pedido.cs",
+              "ToolTip": "C:\\Users\\Kaik\\Documents\\Visual Studio 2022 Projetos\\ProjRestaurante\\ProjRestaurante\\Pedido.cs",
+              "RelativeToolTip": "ProjRestaurante\\Pedido.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:03:57.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Kaik\\Documents\\Visual Studio 2022 Projetos\\ProjRestaurante\\ProjRestaurante\\Item.cs",
+              "RelativeDocumentMoniker": "ProjRestaurante\\Item.cs",
+              "ToolTip": "C:\\Users\\Kaik\\Documents\\Visual Studio 2022 Projetos\\ProjRestaurante\\ProjRestaurante\\Item.cs",
+              "RelativeToolTip": "ProjRestaurante\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:03:36.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaik\\Documents\\Visual Studio 2022 Projetos\\ProjRestaurante\\ProjRestaurante\\Program.cs",
+              "RelativeDocumentMoniker": "ProjRestaurante\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaik\\Documents\\Visual Studio 2022 Projetos\\ProjRestaurante\\ProjRestaurante\\Program.cs",
+              "RelativeToolTip": "ProjRestaurante\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA0wBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T21:03:13.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
